@@ -1,0 +1,15 @@
+# ninja log v5
+9	564	7474395239546143	CMakeFiles/Homework_2.dir/CircularDoublyLinkedList.cpp.obj	e45b27279af0ee6b
+567	757	7474395241412883	Homework_2.exe	3c58771738553c89
+3	566	7474395239541093	CMakeFiles/Homework_2.dir/main.cpp.obj	f8f705e9a4ee8794
+37	558	7474438992706395	CMakeFiles/Homework_2.dir/DoublyLinkedList.cpp.obj	961be43fa1942dc4
+28	562	7474438992736507	CMakeFiles/Homework_2.dir/CircularDoublyLinkedList.cpp.obj	e45b27279af0ee6b
+19	574	7474438992896749	CMakeFiles/Homework_2.dir/main.cpp.obj	f8f705e9a4ee8794
+575	768	7474438994745696	Homework_2.exe	7d901a69508592df
+19	426	7474439229727785	CMakeFiles/Homework_2.dir/main.cpp.obj	f8f705e9a4ee8794
+427	596	7474439231364699	Homework_2.exe	7d901a69508592df
+21	439	7474439430323038	CMakeFiles/Homework_2.dir/main.cpp.obj	f8f705e9a4ee8794
+29	445	7474439430378007	CMakeFiles/Homework_2.dir/DoublyLinkedList.cpp.obj	961be43fa1942dc4
+445	595	7474439431798844	Homework_2.exe	7d901a69508592df
+20	492	7474439525979472	CMakeFiles/Homework_2.dir/main.cpp.obj	f8f705e9a4ee8794
+493	633	7474439527324940	Homework_2.exe	7d901a69508592df
